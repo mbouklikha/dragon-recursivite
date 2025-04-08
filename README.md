@@ -1,6 +1,6 @@
 # Générateur de Fractales - Mode Dragon 🐉  
 
-Ce projet est une interface graphique en Python (Tkinter) qui permet de dessiner différentes figures fractales selon plusieurs modes : 
+Ce projet est une interface graphique en Python (Tkinter) qui permet de dessiner différentes figures fractales avec couleur aléatoire selon plusieurs modes : 
 récursivité classique, L-systèmes, et pliages.
 
 ## 🧠 Modes disponibles  
@@ -30,3 +30,8 @@ récursivité classique, L-systèmes, et pliages.
 
 - Python
 - Tkinter
+
+![image](https://github.com/user-attachments/assets/f3a0f0e2-a6f6-45cd-8888-43486dd0e6af)
+
+
+
